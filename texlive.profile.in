@@ -1,0 +1,7 @@
+TEXDIR @prefix@
+TEXMFCONFIG ~/.texlive/texmf-config
+TEXMFHOME ~/texmf
+TEXMFLOCAL @prefix@/texmf-local
+TEXMFSYSCONFIG @prefix@/texmf-config
+TEXMFSYSVAR @prefix@/texmf-var
+TEXMFVAR ~/.texlive/texmf-var
